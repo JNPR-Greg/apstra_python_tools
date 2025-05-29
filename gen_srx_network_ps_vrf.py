@@ -1,5 +1,5 @@
 '''
-gen_srx_prop_sets.py
+gen_srx_network_ps_vrf.py
     This script will grab details from an Apstra reference design blueprint
     and generate property sets for a freeform blueprint than configures
     the edge firewalls connected to that RefDes blueprint for BGP in each
